@@ -1,0 +1,9 @@
+{
+  "name": "test-deploy",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "predeploy": "echo predeploy running",
+    "deploy": "echo deploy running"
+  }
+}
