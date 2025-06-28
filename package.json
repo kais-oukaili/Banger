@@ -1,7 +1,7 @@
 {
   "name": "profil-projet-app-clean",
   "version": "1.0.0",
-  "homepage": "https://kais-oukaili.github.io/my-projet",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
